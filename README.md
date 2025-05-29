@@ -30,5 +30,4 @@ This is my first assignment on Devops.
   <ul>
 
 #  SOLUTION
-
-<hr>
+ <strong>The</strong> first thing that needs to be done is to first create your file. This file has to be a bash file that will end with <em>.sh</em>. The name of this file is <strong>users.sh</strong>

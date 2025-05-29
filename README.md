@@ -29,8 +29,6 @@ This is my first assignment on Devops.
       <li>Add clear messages to the user about the success or failure of each operation.</li>
   <ul>
 
+#  SOLUTION
 
-<hr>
-
-<strong>SOLUTION</strong>
 <hr>

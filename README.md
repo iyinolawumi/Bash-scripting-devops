@@ -14,10 +14,10 @@ This is my first assignment on Devops.
 <strong>Steps to consider:</strong>
 
 <ul>
-<li>Design a menu-driven script that presents options for user/group management.<li>
-<li>Implement functions for:<li>
-<Li>Creating new users (with home directories, shells, and initial passwords).<li>
-<li>Deleting users.<li>
+<li>Design a menu-driven script that presents options for user/group management.</li>
+<li>Implement functions for:</li>
+<Li>Creating new users (with home directories, shells, and initial passwords).</li>
+<li>Deleting users.</li>
 Adding users to existing groups.
 Removing users from groups.
 Creating new groups.

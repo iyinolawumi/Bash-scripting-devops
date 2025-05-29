@@ -1,16 +1,16 @@
 # Bash-scripting-devops
  
-This is my first Readme on learning Devops
-This sis my first assignment on Devops. 
+This is my first assignment on Devops. 
 
-Task: Linux User and Group Management Script with Logging.
-Difficulty: Easy
+<strong>TASK</strong>: Linux User and Group Management Script with Logging.
+<strong>DIFFICULTY</strong>: Easy
 
-Skills practiced: User and group management commands (useradd, usermod, userdel, groupadd, groupdel, passwd), shell scripting, sudoers file, logging, error handling.
+<strong>Skills practiced</strong>: User and group management commands (useradd, usermod, userdel, groupadd, groupdel, passwd), shell scripting, sudoers file, logging, error handling.
 
-Project Description: Create a comprehensive Bash script that automates the process of adding, modifying, and deleting users and groups on a Linux system. The script should include robust error handling and log all actions for auditing purposes.
+<strong>Project Description</strong>: Create a comprehensive Bash script that automates the process of adding, modifying, and deleting users and groups on a Linux system. The script should include robust error handling and log all actions for auditing purposes.
+<hr>
 
-Steps to consider:
+<strong>Steps to consider:</strong>
 
 Design a menu-driven script that presents options for user/group management.
 Implement functions for:
@@ -25,3 +25,7 @@ Implement input validation to prevent common errors.
 Log all successful and failed operations to a dedicated log file (e.g., /var/log/user_management.log).
 Consider how to handle sudo privileges for the script's execution.
 Add clear messages to the user about the success or failure of each operation.
+<hr>
+
+<strong>SOLUTION</strong>
+<hr>

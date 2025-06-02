@@ -32,6 +32,26 @@ This is my first assignment on Devops.
 #  SOLUTION
  <strong>The</strong> first thing that needs to be done is to first create your file. This file has to be a bash file that will end with <em>.sh</em>. The name of this file is <strong>users.sh</strong>
 
-<stong>STEP 1 </strong>
+<strong>STEP 1:</strong>
 User and group management needs administrative access so the script written must first chack that. 
 <img src ="images/image1.jpg">
+
+<strong>STEP 2:</strong>
+Create a log file to keep track of what happens.
+<img src ="images/image2.jpg">
+
+<strong>STEP 3:</strong>
+Write out the function to create a new user 
+<img src ="images/image3.jpg">
+
+<strong>STEP 4:</strong>
+Repeat the same logic for other actions.
+<img src ="images/image4.jpg">
+
+<strong>STEP 5:</strong>
+Build a menu for easy user access.
+<img src ="images/image5.jpg">
+
+<hr>
+<strong>END RESULT</strong>
+

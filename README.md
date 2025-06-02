@@ -32,14 +32,6 @@ This is my first assignment on Devops.
 #  SOLUTION
  <strong>The</strong> first thing that needs to be done is to first create your file. This file has to be a bash file that will end with <em>.sh</em>. The name of this file is <strong>users.sh</strong>
 
-
-
- blsdyulbfuiawndjklcasdih8fhawei
- ajh,sdvctykgfaeyfb msdFYRERUEFJER
- lhagsdf78ahwekdm\
- svy8ohf78h8jaeidmcals/mkldmsklmnfiepa78yh78wermfweat f5dnm\sksdtqa6rft7ye ;a;ldhawuienrfmlebdy8fgye ha7ghr78ondasjk.ndyawgyueb\yogmshadere ffu8wei wugfedhnjwef78uiewor8q3v rtygbnawkehiaefubg \yghedoae3hrimaefjjeuwmaeu7r74 r ahfo8yweif awejkfnasmuwy88e
- BD6YIUAWBKFB ASGFHUWE
-
- YTWENFMSDANFULASDNAERIH89WEULWOEJSPHURSJKE
- UIGEYSBFJASD FJDJFDSBYUFDUSDFUBGERUSUGR
- WFGYWEFWER
+<stong>STEP 1 </strong>
+User and group management needs administrative access so the script written must first chack that. 
+<img src ="images/image1.jpg">

@@ -54,4 +54,11 @@ Build a menu for easy user access.
 
 <hr>
 <strong>END RESULT</strong>
+The end result is shown below using the command <strong>sudo ./users.sh</strong>
+<img src ="images/image6.jpg">
 
+
+
+<strong>
+WRITTEN BY OLAIBI OLAWUMI PRAISE
+</strong>
